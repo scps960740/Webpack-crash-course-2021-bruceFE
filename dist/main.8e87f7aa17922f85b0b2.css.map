@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://bruce-webpack-tutorial/./src/index.css"],"names":[],"mappings":"AAAA;EACE,WAAW;EACX,YAAY;EACZ,gDAAkC;EAClC,YAAY;EACZ,gBAAgB;AAClB,C","file":"main.8e87f7aa17922f85b0b2.css","sourcesContent":["div {\n  width: 100%;\n  height: 50vh;\n  background-image: url('./cat.gif');\n  color: white;\n  font-size: 100px;\n}"],"sourceRoot":""}

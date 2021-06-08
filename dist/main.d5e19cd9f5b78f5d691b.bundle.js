@@ -1,0 +1,2 @@
+(()=>{"use strict";var n=document.getElementById("btn"),e=document.getElementById("num");n.addEventListener("click",(function(){var n=parseInt(e.innerText,10);e.innerText=n+1}));var t=new WeakMap,a=new function n(){!function(n,e){if(!(n instanceof e))throw new TypeError("Cannot call a class as a function")}(this,n),t.set(this,{writable:!0,value:1})};console.log("tt.a",a.a)})();
+//# sourceMappingURL=main.d5e19cd9f5b78f5d691b.bundle.js.map

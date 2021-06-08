@@ -1,0 +1,7 @@
+div {
+  width: 100%;
+  height: 50vh;
+  background-image: url('./cat.gif');
+  color: white;
+  font-size: 100px;
+}
